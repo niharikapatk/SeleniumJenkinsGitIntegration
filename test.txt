@@ -7,4 +7,4 @@ git integration with Jenkins:)
 Hint: Gave git exe in tools->global config
 
 cmd : type where git
-put that location  in global config
+put that location  in global configuration.

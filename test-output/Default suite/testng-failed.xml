@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.testcases.LogoutPageTestcases">
+      <class name="com.seleniumgridheadless.ParallelTestsHeadless">
         <methods>
-          <include name="setUp"/>
-          <include name="logout"/>
+          <include name="crossBowser"/>
         </methods>
-      </class> <!-- com.testcases.LogoutPageTestcases -->
+      </class> <!-- com.seleniumgridheadless.ParallelTestsHeadless -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

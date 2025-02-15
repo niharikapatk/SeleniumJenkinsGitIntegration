@@ -1,2 +1,5 @@
 To run via cmd (maven test+maven clean)--- use testng version 7.8.0
 to run via ecillipse (maven test+maven clean)--- use testing verio 7.1.0
+
+
+Jenkins integration

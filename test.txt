@@ -2,4 +2,9 @@ To run via cmd (maven test+maven clean)--- use testng version 7.8.0
 to run via ecillipse (maven test+maven clean)--- use testing verio 7.1.0
 
 
-git integration with Jenkins!!!!!!!
+git integration with Jenkins:)
+
+Hint: Gave git exe in tools->global config
+
+cmd : type where git
+put that location  in global config
